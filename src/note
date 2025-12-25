@@ -1,0 +1,28 @@
+WHAT IS HIERARCHY ?
+In programming, a Hierarchy is a system of "Parents" and "Children."
+A hierarchy in Java Collections defines a "Is-A" relationship.
+EXAMPLE
+An ArrayList is a List.
+A List is a Collection.
+
+
+                    Iterable
+                        |
+      List              Set             Queue
+       |                 |                |
+     ArrayList          HashSet         PrioriyQueue
+     LinkedList         TreeSet
+                        LinkedHashSet
+
+HOW TO USE THESE COLLECTION FRAMEWORK FOR ?
+1. ArrayList (Already Learn)
+2. LinkedList  (Not yet Learn)
+3. HashMap  (Already Learn)
+4. LinkedListMap  (Not yet Learn)
+5. TreeMap  (Not yet Learn)
+6. HashSet  (Already Learn)
+7. LinkedListHashSet
+8. TreeSet  (Not yet Learn)
+9. Stream  (Already Learn)
+10. Deque  (Not yet Learn)
+11. Queue  (Not yet Learn)
