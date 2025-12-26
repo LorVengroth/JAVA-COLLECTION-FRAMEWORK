@@ -1,0 +1,5 @@
+Set :
+- Set interface of the java Collection framework provides the features of the mathematical set in java.
+- It extends the Collection interface.
+- Sets cannot contain duplicate elements.
+
