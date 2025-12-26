@@ -35,5 +35,8 @@ public class HashMapDemo {
         // get the key by use .Keyset()
         System.out.println(empIds.keySet());
 
+        // get the value by use .value
+        System.out.println(empIds.values());
+
     }
 }

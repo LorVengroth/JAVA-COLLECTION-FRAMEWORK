@@ -1,0 +1,5 @@
+How Map is working
+- Elements of Map are stored in key/value pairs.
+- Keys are unique values associated with individual values.
+- A Map cannot contain duplicate keys.
+- Each key is associate with a single value.
